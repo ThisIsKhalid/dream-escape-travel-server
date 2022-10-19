@@ -1,0 +1,23 @@
+[
+    {
+        "id": "01",
+        "name": "Switzerland",
+        "price": 15000,
+        "details": "Sunlight on the top of the Matterhorn (4,478 m) and the reflection of the mountain's east and north faces on the Stelli Lake. It is not the highest mountain in Switzerland, but the Matterhorn is one of the world's most famous mountains.",
+        "img": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+    },
+    {
+        "id": "02",
+        "name": "Canada",
+        "price": 12000,
+        "details": "Canada is a vast and rugged land. From north to south it spans more than half the Northern Hemisphere. From east to west it stretches almost 4,700 miles (7,560 kilometers) across six time zones. It is the second largest country in the world, but it has only one-half of one percent of the world's population.",
+        "img": "https://images.unsplash.com/photo-1522878129833-838a904a0e9e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+    },
+    {
+        "id": "03",
+        "name": "Bangladesh",
+        "price": 10000,
+        "details": "It is home to the world's largest river delta, which is formed by the Brahmaputra and the Ganges river. Roaming Bengal tigers in the Sundarbans, a mangrove and swampland in the delta. For the longest natural uninterrupted sea beach in Asia (Cox's Bazar beach), which is 150 km long. The Malnicherra Tea Estate, the oldest tea garden in the subcontinent. Ancient historical Panam City. Ilish fish and Muslin gauze like Jamdani.",
+        "img": "https://images.unsplash.com/photo-1517760444937-f6397edcbbcd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+    }
+]
